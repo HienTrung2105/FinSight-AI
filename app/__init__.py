@@ -1,0 +1,2 @@
+"""FinSight AI application package."""
+

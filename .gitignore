@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Runtime data and uploaded documents
+data/
+uploads/
+*.log
+
+# AI artifacts (track metadata/configuration, not large binaries)
+*.bin
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
