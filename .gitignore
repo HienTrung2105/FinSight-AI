@@ -21,6 +21,9 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+~$*.docx
+~$*.xlsx
+~$*.pptx
 
 # Runtime data and uploaded documents
 data/
@@ -33,4 +36,3 @@ uploads/
 *.pt
 *.pth
 *.safetensors
-
